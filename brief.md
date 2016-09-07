@@ -21,7 +21,7 @@
 ## 5 Website's structure
 *Point out sites and sub-menus for main menu as well as all the websites that have to be created.*
 
-## 6 Informacje dodatkowe
+## 6 Additional information
 *Choose additinal services and informations*
 
 - [ ] Static website 
