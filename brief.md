@@ -1,4 +1,4 @@
-# Brief
+# Brief Template
 ## 1 Introduction
 *Deadline, contact information for person responsible for the project on client side.*
 
